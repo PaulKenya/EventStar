@@ -1,0 +1,18 @@
+.custom-bottom-margin{
+    margin-bottom: 20px;
+}
+.edit_button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    border-radius: 12px;
+    cursor: pointer;
+    height: 40px;
+    width: 90px;
+}
+
